@@ -1,0 +1,38 @@
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\bin\Release\FileNamer.exe
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\bin\Release\FileNamer.pdb
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Release\FileNamer.Properties.Resources.resources
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Release\FileNamer.csproj.GenerateResource.Cache
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Release\FileNamer.exe
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Release\FileNamer.pdb
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Release\FileNamer.MainForm.resources
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\bin\Release\FileNamer.exe
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\bin\Release\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Release\FileNamer.Properties.Resources.resources
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Release\FileNamer.csproj.GenerateResource.Cache
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Release\FileNamer.exe
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Release\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Release\FileNamer.FileNamerForm.resources
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\bin\Release\nunit.framework.dll
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\bin\Release\nunit.framework.xml
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\FileNamer.exe
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\bin\Release\FileNamer.exe
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\bin\Release\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\bin\Release\nunit.framework.xml
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\FileNamer.FileNamerForm.resources
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\FileNamer.Properties.Resources.resources
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\GenerateResource.read.1.tlog
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\obj\Release\GenerateResource.write.1.tlog
+C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer\bin\Release\nunit.framework.dll
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.exe
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.pdb
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\bin\Release\FileNamer.exe
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\bin\Release\FileNamer.pdb
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\bin\Release\nunit.framework.xml
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.csprojResolveAssemblyReference.cache
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.FileNamerForm.resources
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.Properties.Resources.resources
+D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.csproj.GenerateResource.Cache

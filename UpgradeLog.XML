@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileNamer">
+</Property><Property Name="Solution File" Value="C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer.sln">
+</Property><Property Name="User Options File" Value="C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\FileNamer.suo">
+</Property><Property Name="Date" Value="4. mai 2010">
+</Property><Property Name="Time" Value="20:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileNamer.sln" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FileNamer.suo" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer.suo">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamer.csproj" Description="Project file successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileNamer.csproj">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamer.csproj.user" Description="Project user file successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileNamer.csproj.user">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileHandling.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileHandling.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileHandlingTest.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileHandlingTest.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileName.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileName.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamerForm.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileNamerForm.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamerForm.Designer.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileNamerForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileWrapper.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileWrapper.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\Program.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\Program.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\Properties\Settings.settings" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamerForm.resx" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\FileNamerForm.resx">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\Properties\Resources.resx" Description="File successfully backed up as C:\Users\frotveit\Documents\Visual Studio 2010\Projects\FileNamer\Backup\FileNamer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FileNamer" Source="FileNamer\FileNamer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileNamer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileNamer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileNamer" Source="FileNamer\FileNamer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

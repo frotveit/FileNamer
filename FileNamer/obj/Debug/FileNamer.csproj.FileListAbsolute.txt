@@ -1,0 +1,18 @@
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\bin\Debug\FileNamer.exe
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\bin\Debug\FileNamer.pdb
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Debug\FileNamer.MainForm.resources
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Debug\FileNamer.Properties.Resources.resources
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Debug\FileNamer.csproj.GenerateResource.Cache
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Debug\FileNamer.exe
+C:\Documents and Settings\HP_Administrator\Local Settings\Application Data\Temporary Projects\FileNamer\obj\Debug\FileNamer.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.exe
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\bin\Debug\FileNamer.exe
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\bin\Debug\FileNamer.pdb
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.Properties.Resources.resources
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.GenerateResource.Cache
+C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.FileNamerForm.resources
