@@ -1,30 +1,28 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace FileNamer
 {
-    public partial class FileNamerForm : Form
+    public partial class FileNamerForm : Form, IFileNamerUi
     {
         public const string SortDateTypeCreate = "Creation Date";
         public const string SortDateTypeLastUpdate = "Last Update Date";
 
-        private readonly IFileWrapper _fileWrapper;
-        private readonly FileRenamer _fileRenamer;
-        private readonly FileRenumbering _fileRenumbering;
+        private readonly FileNamer _fileNamer;
+
 
         public FileNamerForm()
         {
             InitializeComponent();
-            _fileWrapper = new FileWrapper();
-            _fileRenamer = new FileRenamer(new FileWrapper());
-            _fileRenumbering = new FileRenumbering(new FileWrapper());
+            _fileNamer = new FileNamer(this);
         }
 
         private SortDateType GetSortDateType()
         {
             switch (dateTypeUpDown.Text)
-            { 
+            {
                 case SortDateTypeCreate:
                     return SortDateType.Created;
                 case SortDateTypeLastUpdate:
@@ -35,28 +33,27 @@ namespace FileNamer
 
         private void DoRenumberFolder(object sender, EventArgs e)
         {
-            _fileRenumbering.RenumberFolder(folderTextBox.Text, useDatePrefixCheckBox.Checked, fileNameTextBox.Text, 
+            _fileNamer.RenumberFolder(folderTextBox.Text, useDatePrefixCheckBox.Checked, fileNameTextBox.Text, 
                 useExistingFileNameCheckBox.Checked, (int)numberToRemoveNumericUpDown.Value, GetSortDateType());
-
-            UpdateFileListBox();
         }
 
         private void DoRename(object sender, EventArgs e)
         {
-            _fileRenamer.RenameFilesInFolder(folderTextBox.Text, oldFilePrefixTextBox.Text, newFilePrefixTextBox.Text);
-
-            UpdateFileListBox();
+            _fileNamer.Rename(folderTextBox.Text, oldFilePrefixTextBox.Text, newFilePrefixTextBox.Text);
         }
 
         private void DoRenameSelected(object sender, EventArgs e)
         {
+            var fileList = GetSelectedFiles();
+            _fileNamer.RenameSelected(folderTextBox.Text, oldFilePrefixTextBox.Text, newFilePrefixTextBox.Text, fileList);
+        }
+
+        private List<string> GetSelectedFiles()
+        {
             List<string> fileList = new List<string>();
             foreach (string fileName in fileListBox.SelectedItems)
                 fileList.Add(fileName);
-
-            _fileRenamer.RenameSelectedFilesInFolder(folderTextBox.Text, oldFilePrefixTextBox.Text, newFilePrefixTextBox.Text, fileList);
-
-            UpdateFileListBox();
+            return fileList;
         }
 
 
@@ -71,17 +68,17 @@ namespace FileNamer
             {
                 folderTextBox.Text = folderBrowserDialog.SelectedPath;
 
-                UpdateFileListBox();
+                _fileNamer.UpdateFileList(folderTextBox.Text);
             }
         }
 
-        private void UpdateFileListBox()
+        public void UpdateFileList(List<string> fileList)
         {
-            List<string> fileList = _fileWrapper.GetFileList(folderTextBox.Text);
             fileListBox.Items.Clear();
             foreach (string fileName in fileList)
                 fileListBox.Items.Add(fileName);
         }
+
 
 
         private void MainForm_Load(object sender, EventArgs e)

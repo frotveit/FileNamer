@@ -16,3 +16,12 @@ C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\
 C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.Properties.Resources.resources
 C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.GenerateResource.Cache
 C:\Users\frotveit\Documents\Visual Studio 2008\Projects\FileNamer\FileNamer\obj\Debug\FileNamer.FileNamerForm.resources
+D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.exe
+D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.pdb
+D:\Users\GitHub\FileNamer\FileNamer\bin\Debug\FileNamer.exe
+D:\Users\GitHub\FileNamer\FileNamer\bin\Debug\FileNamer.pdb
+D:\Users\GitHub\FileNamer\FileNamer\bin\Debug\nunit.framework.xml
+D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.csprojResolveAssemblyReference.cache
+D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.FileNamerForm.resources
+D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.Properties.Resources.resources
+D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.GenerateResource.Cache

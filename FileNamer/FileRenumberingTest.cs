@@ -1,6 +1,5 @@
 ﻿using NUnit.Framework;
 using System;
-using System.IO;
 
 namespace FileNamer
 {
@@ -15,13 +14,13 @@ namespace FileNamer
 
 
         [Test]
-        public void TestGetNewFileNameForRenumber_DatePrefixAndCommonName()
+        public void TestGetNewFileNameForRenumberWithDatePrefixAndCommonName()
         {
             Assert.AreEqual("2003-01-03_003_COM.jpg",
                 FileRenumbering.GetNewFileNameForRenumber(true, "COM", false, 0, 3, "file.jpg", new DateTime(2003, 01, 03)));
         }
         [Test]
-        public void TestGetNewFileNameForRenumber_CommonName()
+        public void TestGetNewFileNameForRenumberWithCommonName()
         {
             Assert.AreEqual("003_COM.jpg",
                 FileRenumbering.GetNewFileNameForRenumber(false, "COM", false, 0, 3, "file.jpg", new DateTime(2003, 01, 03)));

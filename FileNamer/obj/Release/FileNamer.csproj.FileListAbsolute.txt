@@ -36,3 +36,12 @@ D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.csprojResolveAsse
 D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.FileNamerForm.resources
 D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.Properties.Resources.resources
 D:\Users\Get Sky\DEV\FileNamer\FileNamer\obj\Release\FileNamer.csproj.GenerateResource.Cache
+D:\Users\GitHub\FileNamer\FileNamer\obj\Release\FileNamer.exe
+D:\Users\GitHub\FileNamer\FileNamer\obj\Release\FileNamer.pdb
+D:\Users\GitHub\FileNamer\FileNamer\bin\Release\FileNamer.exe
+D:\Users\GitHub\FileNamer\FileNamer\bin\Release\FileNamer.pdb
+D:\Users\GitHub\FileNamer\FileNamer\bin\Release\nunit.framework.xml
+D:\Users\GitHub\FileNamer\FileNamer\obj\Release\FileNamer.csprojResolveAssemblyReference.cache
+D:\Users\GitHub\FileNamer\FileNamer\obj\Release\FileNamer.FileNamerForm.resources
+D:\Users\GitHub\FileNamer\FileNamer\obj\Release\FileNamer.Properties.Resources.resources
+D:\Users\GitHub\FileNamer\FileNamer\obj\Release\FileNamer.csproj.GenerateResource.Cache

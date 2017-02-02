@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileNamer.cs" />
     <Compile Include="FileNameTest.cs" />
     <Compile Include="FileRenumbering.cs" />
     <Compile Include="FileRenumberingTest.cs" />
@@ -66,6 +67,7 @@
     </Compile>
     <Compile Include="FileRenamer.cs" />
     <Compile Include="FileWrapper.cs" />
+    <Compile Include="IFileNamerUi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FileNamerForm.resx">
@@ -81,6 +83,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="FileNamer.exe.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

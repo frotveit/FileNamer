@@ -127,7 +127,7 @@
             this.instructionLabel.Size = new System.Drawing.Size(573, 45);
             this.instructionLabel.TabIndex = 7;
             this.instructionLabel.Text = "This application rename and renumber the files in a folder. First choose a folder" +
-    ", then enter a common name for the files, and press rename button.";
+                                         ", then enter a common name for the files, and press rename button.";
             // 
             // fileListBox
             // 
