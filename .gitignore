@@ -48,5 +48,5 @@ Temporary Items
 /.vs
 /packages
 /_UpgradeReport_Files
-**/bin
-**/obj
+bin/
+obj/
