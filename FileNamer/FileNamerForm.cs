@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using FileNamerCore;
+using FileNamerCore.DataTypes;
 
 namespace FileNamer
 {
@@ -9,6 +11,7 @@ namespace FileNamer
     {
         public const string SortDateTypeCreate = "Creation Date";
         public const string SortDateTypeLastUpdate = "Last Update Date";
+        public const string DefaultSortDateType = SortDateTypeCreate;
 
         private readonly FileNamer _fileNamer;
 
@@ -72,11 +75,17 @@ namespace FileNamer
             }
         }
 
-        public void UpdateFileList(List<string> fileList)
+        public void UpdateFileList(List<FileInformation> fileList)
         {
             fileListBox.Items.Clear();
-            foreach (string fileName in fileList)
-                fileListBox.Items.Add(fileName);
+            fileGridView.Rows.Clear();
+            fileGridView.DefaultCellStyle.DataSourceNullValue = null;
+            foreach (var file in fileList)
+            {
+                fileListBox.Items.Add(file.Name);
+                fileGridView.Rows.Add(new string[] { file.Name, file.CreationTime.ToString(), file.ChangedTime.ToString() });
+            }           
+            
         }
 
 

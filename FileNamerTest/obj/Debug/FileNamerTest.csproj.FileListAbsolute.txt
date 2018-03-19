@@ -1,0 +1,15 @@
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamer.exe.config
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamerTest.dll
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamerTest.pdb
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamer.exe
+C:\proj\FileNamer\FileNamerTest\bin\Debug\nunit.framework.dll
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamer.pdb
+C:\proj\FileNamer\FileNamerTest\bin\Debug\nunit.framework.pdb
+C:\proj\FileNamer\FileNamerTest\bin\Debug\nunit.framework.xml
+C:\proj\FileNamer\FileNamerTest\obj\Debug\FileNamerTest.csprojResolveAssemblyReference.cache
+C:\proj\FileNamer\FileNamerTest\obj\Debug\FileNamerTest.csproj.CoreCompileInputs.cache
+C:\proj\FileNamer\FileNamerTest\obj\Debug\FileNamerTest.csproj.CopyComplete
+C:\proj\FileNamer\FileNamerTest\obj\Debug\FileNamerTest.dll
+C:\proj\FileNamer\FileNamerTest\obj\Debug\FileNamerTest.pdb
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamerCore.dll
+C:\proj\FileNamer\FileNamerTest\bin\Debug\FileNamerCore.pdb

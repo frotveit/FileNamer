@@ -1,6 +1,9 @@
 ﻿
 
 using System.Collections.Generic;
+using FileNamerCore;
+using FileNamerCore.DataTypes;
+using FileNamerCore.Interfaces;
 
 namespace FileNamer
 {
@@ -22,6 +25,9 @@ namespace FileNamer
         public void RenumberFolder(string folderPath, bool useDatePrefix, string fileName,
             bool useExistingFileName, int removePrefixLength, SortDateType sortDateType)
         {
+            if (folderPath == null || folderPath == "")
+                return;
+
             _fileRenumbering.RenumberFolder(folderPath, useDatePrefix, fileName, useExistingFileName, removePrefixLength, sortDateType);
 
             UpdateFileList(folderPath);
@@ -41,9 +47,9 @@ namespace FileNamer
         }
 
         public void UpdateFileList(string folderPath)
-        {
-            List<string> fileList = _fileWrapper.GetFileList(folderPath);
-            _ui.UpdateFileList(fileList);
+        {            
+            List<FileInformation> fileInfoList = _fileWrapper.GetFileInformationList(folderPath);
+            _ui.UpdateFileList(fileInfoList);
         }
 
     }

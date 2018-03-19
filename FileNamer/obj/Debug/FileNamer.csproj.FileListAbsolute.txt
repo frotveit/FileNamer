@@ -25,3 +25,16 @@ D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.csprojResolveAssemblyRef
 D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.FileNamerForm.resources
 D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.Properties.Resources.resources
 D:\Users\GitHub\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.GenerateResource.Cache
+C:\proj\FileNamer\FileNamer\bin\Debug\FileNamer.exe.config
+C:\proj\FileNamer\FileNamer\bin\Debug\FileNamer.exe
+C:\proj\FileNamer\FileNamer\bin\Debug\FileNamer.pdb
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.csprojResolveAssemblyReference.cache
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.FileNamerForm.resources
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.Properties.Resources.resources
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.GenerateResource.cache
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.CoreCompileInputs.cache
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.csproj.CopyComplete
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.exe
+C:\proj\FileNamer\FileNamer\obj\Debug\FileNamer.pdb
+C:\proj\FileNamer\FileNamer\bin\Debug\FileNamerCore.dll
+C:\proj\FileNamer\FileNamer\bin\Debug\FileNamerCore.pdb

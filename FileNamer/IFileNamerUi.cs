@@ -1,11 +1,12 @@
 ﻿
 
 using System.Collections.Generic;
+using FileNamerCore.DataTypes;
 
 namespace FileNamer
 {
     public interface IFileNamerUi
     {
-        void UpdateFileList(List<string> fileList);
+        void UpdateFileList(List<FileInformation> fileInfoList);
     }
 }

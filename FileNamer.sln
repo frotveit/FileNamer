@@ -1,7 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNamer", "FileNamer\FileNamer.csproj", "{50D67E14-EF70-4A2E-93D7-76E251252E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNamerTest", "FileNamerTest\FileNamerTest.csproj", "{8DE44806-3E85-492F-A109-AEE9D2E29068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNamerCore", "FileNamerCore\FileNamerCore.csproj", "{C4073662-18DD-4B7E-A270-5074BA615BDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +19,19 @@ Global
 		{50D67E14-EF70-4A2E-93D7-76E251252E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D67E14-EF70-4A2E-93D7-76E251252E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D67E14-EF70-4A2E-93D7-76E251252E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE44806-3E85-492F-A109-AEE9D2E29068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE44806-3E85-492F-A109-AEE9D2E29068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE44806-3E85-492F-A109-AEE9D2E29068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE44806-3E85-492F-A109-AEE9D2E29068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4073662-18DD-4B7E-A270-5074BA615BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4073662-18DD-4B7E-A270-5074BA615BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4073662-18DD-4B7E-A270-5074BA615BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4073662-18DD-4B7E-A270-5074BA615BDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DB639E-9750-411D-9BC8-A0EA0AB6F6D4}
 	EndGlobalSection
 EndGlobal
