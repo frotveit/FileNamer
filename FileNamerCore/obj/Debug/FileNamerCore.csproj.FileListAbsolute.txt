@@ -1,6 +1,0 @@
-C:\proj\FileNamer\FileNamerCore\bin\Debug\FileNamerCore.dll
-C:\proj\FileNamer\FileNamerCore\bin\Debug\FileNamerCore.pdb
-C:\proj\FileNamer\FileNamerCore\obj\Debug\FileNamerCore.csproj.CoreCompileInputs.cache
-C:\proj\FileNamer\FileNamerCore\obj\Debug\FileNamerCore.dll
-C:\proj\FileNamer\FileNamerCore\obj\Debug\FileNamerCore.pdb
-C:\proj\FileNamer\FileNamerCore\obj\Debug\FileNamerCore.csprojResolveAssemblyReference.cache
