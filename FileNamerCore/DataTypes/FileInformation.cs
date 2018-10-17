@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FileNamerCore.DataTypes
 {
@@ -22,7 +18,6 @@ namespace FileNamerCore.DataTypes
             CreationTime = info.CreationTime;
             ChangedTime = info.LastWriteTime;
         }
-
 
     }
 }
