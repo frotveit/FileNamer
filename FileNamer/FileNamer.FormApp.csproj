@@ -99,9 +99,9 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FileNamerCore\FileNamerCore.csproj">
-      <Project>{c4073662-18dd-4b7e-a270-5074ba615bda}</Project>
-      <Name>FileNamerCore</Name>
+    <ProjectReference Include="..\FileNamer.Service\FileNamer.Service.csproj">
+      <Project>{34c98b6c-a429-4c32-b183-2a80e514dd14}</Project>
+      <Name>FileNamer.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
