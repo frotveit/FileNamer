@@ -1,4 +1,4 @@
-﻿namespace FileNamer
+﻿namespace FileNamer.FormApp
 {
     partial class FileNamerForm
     {

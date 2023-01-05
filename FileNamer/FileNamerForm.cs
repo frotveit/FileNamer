@@ -2,10 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using FileNamerCore;
-using FileNamerCore.DataTypes;
+using FileNamer.Service;
+using FileNamer.Service.DataTypes;
 
-namespace FileNamer
+namespace FileNamer.FormApp
 {
     public partial class FileNamerForm : Form, IFileNamerUi
     {

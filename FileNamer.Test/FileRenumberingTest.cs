@@ -2,6 +2,8 @@
 using FileNamer.Service;
 using NUnit.Framework;
 
+using Shouldly;
+
 namespace FileNamerTest
 {
     [TestFixture]
@@ -11,6 +13,8 @@ namespace FileNamerTest
         public void TestGetFormattedDate()
         {
             Assert.AreEqual("2000-01-01", FileRenumbering.GetFormattedDate(new DateTime(2000, 01, 01)));
+
+            FileRenumbering.GetFormattedDate(new DateTime(2000, 01, 01)).ShouldBe("2000-01-01");
         }
 
 

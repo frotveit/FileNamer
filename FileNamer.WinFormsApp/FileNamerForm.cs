@@ -18,7 +18,7 @@ namespace FileNamer.WinFormsApp
 
         public FileNamerForm()
         {
-            ////InitializeComponent();
+            InitializeComponent();
             _fileNamer = new FileNamer(this);
         }
 

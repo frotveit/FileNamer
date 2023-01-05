@@ -59,7 +59,12 @@ namespace FileNamer.Service
             SortedList<DateTime, FileInfo> sortedFiles = new SortedList<DateTime, FileInfo>();
             foreach (FileInfo file in files)
             {
-                sortedFiles.Add(GetSortDate(file, sortDateType), file);
+                var sortDate = GetSortDate(file, sortDateType);
+                while (sortedFiles.ContainsKey(sortDate))
+                {
+                    sortDate = sortDate.AddMicroseconds(1);
+                }
+                sortedFiles.Add(sortDate, file);
             }
             return sortedFiles;
         }
