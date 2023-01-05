@@ -1,4 +1,4 @@
-﻿namespace FileNamer.FormApp
+﻿namespace FileNamer.WinFormsApp
 {
     partial class FileNamerForm
     {

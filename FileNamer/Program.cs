@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace FileNamer
+namespace FileNamer.FormApp
 {
     static class Program
     {

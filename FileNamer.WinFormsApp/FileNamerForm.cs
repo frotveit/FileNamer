@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using FileNamer.Service;
 using FileNamer.Service.DataTypes;
 
-namespace FileNamer.FormApp
+namespace FileNamer.WinFormsApp
 {
     public partial class FileNamerForm : Form, IFileNamerUi
     {

@@ -1,9 +1,8 @@
 ﻿
 
-using System.Collections.Generic;
 using FileNamer.Service.DataTypes;
 
-namespace FileNamer.FormApp
+namespace FileNamer.WinFormsApp
 {
     public interface IFileNamerUi
     {

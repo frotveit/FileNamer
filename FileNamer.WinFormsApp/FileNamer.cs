@@ -5,7 +5,7 @@ using FileNamer.Service;
 using FileNamer.Service.DataTypes;
 using FileNamer.Service.Interfaces;
 
-namespace FileNamer.FormApp
+namespace FileNamer.WinFormsApp
 {
     public class FileNamer
     {
